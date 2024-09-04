@@ -1,4 +1,3 @@
-# Movie_Recommender_System_ML
 <h1 align="center"><b><big>:clapper: :film_projector:	:film_strip: Movie Recomender - CINEMIO :movie_camera: </big></b></h1>
 <p align="center">
 <img src="https://github.com/LeopoldoGitHub/Cinemio/blob/main/Leop/images/movies3.png" alt="Movies" width="100%" height="100%"/>
